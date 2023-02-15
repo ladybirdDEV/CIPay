@@ -38,7 +38,7 @@
 		</data>
 		<key>Modules/CIPaySDK.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		JmCHMuF3hC9B6B6j1gJkbr548Sg=
+		oKcwwWRxcua6/WGjDCxaMtbYuo4=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -128,11 +128,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			JmCHMuF3hC9B6B6j1gJkbr548Sg=
+			oKcwwWRxcua6/WGjDCxaMtbYuo4=
 			</data>
 			<key>hash2</key>
 			<data>
-			I/NBdF49THEw9WDpNCH3V5P/ubDPGEsnXPH5p8rO6qo=
+			YML51nqFuWVEDdGEzeDFYpF1zlsUy8xQAKk1Q4jD004=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
