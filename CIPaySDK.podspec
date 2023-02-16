@@ -1,5 +1,5 @@
 #
-# Be sure to run `pod lib lint CIPay.podspec' to ensure this is a
+# Be sure to run `pod lib lint CIPaySDK.podspec' to ensure this is a
 # valid spec before submitting.
 #
 # Any lines starting with a # are optional, but their use is encouraged
@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'CIPaySDK'
-  s.version          = '0.0.2'
+  s.version          = '0.0.6'
   s.summary          = 'A short description of CIPaySDK.'
 
 # This description is used to generate tags and improve search results.
@@ -23,7 +23,7 @@ TODO: Add long description of the pod here.
 
   s.homepage         = 'https://github.com/ladybirdDEV/CIPay'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
-  s.author           = { 'yangbb' => 'yangbenben@corp-ci.com' }
+  s.author           = { 'idbeny' => 'idbeny@163.com' }
   s.source           = { :git => 'https://github.com/ladybirdDEV/CIPay.git', :tag => s.version.to_s }
   
   s.swift_version = '5.0'
@@ -35,7 +35,6 @@ TODO: Add long description of the pod here.
   s.user_target_xcconfig = {
       'EXCLUDED_ARCHS[sdk=iphonesimulator*]' => 'arm64'
   }
-  s.static_framework = true
 
   s.vendored_frameworks = "CIPay/CIPaySDK.framework"
   
