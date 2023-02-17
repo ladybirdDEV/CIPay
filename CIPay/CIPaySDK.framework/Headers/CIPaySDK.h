@@ -2,8 +2,7 @@
 //  CIPaySDK.h
 //  CIPaySDK
 //
-//  Created by daben on 2023/2/15.
-//  Copyright © 2023 yangbb. All rights reserved.
+//  Created by daben on 2023/2/17.
 //
 
 #import <Foundation/Foundation.h>

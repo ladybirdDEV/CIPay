@@ -14,7 +14,7 @@
 		</data>
 		<key>Headers/CIPaySDK.h</key>
 		<data>
-		05h+bFDnNwJ9rBUdmIF3wnwS2IE=
+		iVfLY4Q1d6Ppl3rAQC4HvSR30iI=
 		</data>
 		<key>Headers/CIPayTool.h</key>
 		<data>
@@ -22,7 +22,7 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		Kt/TByPPgBmhgijioQhngRaDA6M=
+		QphA31CUSPsldg8XgU80s4mSYOM=
 		</data>
 		<key>Modules/CIPaySDK.swiftmodule/Project/x86_64-apple-ios-simulator.swiftsourceinfo</key>
 		<data>
@@ -38,7 +38,7 @@
 		</data>
 		<key>Modules/CIPaySDK.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		oKcwwWRxcua6/WGjDCxaMtbYuo4=
+		HhrGyL1yx2bkALzHedbb3f/5pDc=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -73,11 +73,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			05h+bFDnNwJ9rBUdmIF3wnwS2IE=
+			iVfLY4Q1d6Ppl3rAQC4HvSR30iI=
 			</data>
 			<key>hash2</key>
 			<data>
-			MJjdhlPjxeClaoVRyHPSRbTN7Dkd2bH4igPSwOAMpQc=
+			m3W2/eiFDT3cUzn+jT7SLJTN3O00kBTiWJ0G3aKMiAc=
 			</data>
 		</dict>
 		<key>Headers/CIPayTool.h</key>
@@ -128,11 +128,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			oKcwwWRxcua6/WGjDCxaMtbYuo4=
+			HhrGyL1yx2bkALzHedbb3f/5pDc=
 			</data>
 			<key>hash2</key>
 			<data>
-			YML51nqFuWVEDdGEzeDFYpF1zlsUy8xQAKk1Q4jD004=
+			/nemhmAvkfKx7STIaNBP1RlSjS8dPKc7Gx68O4HJnb4=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
