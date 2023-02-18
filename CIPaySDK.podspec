@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'CIPaySDK'
-  s.version          = '0.0.7'
+  s.version          = '0.0.8'
   s.summary          = 'A short description of CIPaySDK.'
 
 # This description is used to generate tags and improve search results.
@@ -29,6 +29,8 @@ TODO: Add long description of the pod here.
   s.swift_version = '5.0'
   s.ios.deployment_target = '13.0'
   
+  s.static_framework = true
+
   s.pod_target_xcconfig = {
       'EXCLUDED_ARCHS[sdk=iphonesimulator*]' => 'arm64'
   }
