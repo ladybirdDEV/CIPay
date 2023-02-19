@@ -1,0 +1,11 @@
+framework module CIPay {
+  umbrella header "CIPay.h"
+
+  export *
+  module * { export * }
+}
+
+module CIPay.Swift {
+  header "CIPay-Swift.h"
+  requires objc
+}
